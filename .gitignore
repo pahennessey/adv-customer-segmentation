@@ -1,0 +1,6 @@
+# ide files
+/.vscode/
+# commit message
+/commit.message
+# jupyter cache
+/**/.ipynb_checkpoints
