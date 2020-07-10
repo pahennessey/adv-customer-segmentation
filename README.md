@@ -9,7 +9,7 @@ Patrick Hennessey
 #### Data cleaning:
 
  * Fix columns that spring errors
- * Remove columns with >12% missing values (found empirically with a histogram)
+ * Remove columns with >20% missing values (found empirically with a histogram)
  * LabelEncoder for ABDC labels
  * Once features are selected (rough), find threshhold to remove rows with high missing value proportion
 
